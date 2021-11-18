@@ -2,8 +2,8 @@
 
 :root {
     --font: 'Roboto Mono', monospace;
-    --background: white;
-    --color: #232333;
+    --background: black;
+    --color: #A9A9A9;
 }
 
 body{
