@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/claygarth
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://claygarth.com
+  * I am claygarth (https://keybase.io/claygarth) on keybase.
+  * I have a public key ASAXStWGC2EmxO3mvDWO1_bBPFGu1yTj9xUxPSzfqF4iQwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101cc1135df9ff335c4a6e24bc549ff04ad529c71c3e6796454266a7af5b4676ad80a",
+      "host": "keybase.io",
+      "kid": "0120174ad5860b6126c4ede6bc358ed7f6c13c51aed724e3f715313d2cdfa85e22430a",
+      "uid": "621c72052b0870f87556c5c1aeb3df19",
+      "username": "claygarth"
+    },
+    "merkle_root": {
+      "ctime": 1637280349,
+      "hash": "ddc36ba2cb64f633cb8b8f16b58f61ade5561d71a065058fd7ae3a89765b386cc8eab8df8fa58a6c6dccda89ab61234334f93b69a4cee6b4e34f41d843e469ee",
+      "hash_meta": "eb85d0c042434cfc5af06e6a5ed1579a51eeb51af1e6b68bedefad9c7e4f752f",
+      "seqno": 21256333
+    },
+    "service": {
+      "entropy": "WWa64BE6ra1rPccMsGzb/9ca",
+      "hostname": "claygarth.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.1"
+  },
+  "ctime": 1637280361,
+  "expire_in": 504576000,
+  "prev": "69939f12a6bb2976bcabf72f82737e72c5200ce2b73545a1cc1fbcca9510be9f",
+  "seqno": 49,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgF0rVhgthJsTt5rw1jtf2wTxRrtck4/cVMT0s36heIkMKp3BheWxvYWTESpcCMcQgaZOfEqa7KXa8q/cvgnN+csUgDOK3NUWhzB+8ypUQvp/EICgbMgLKcUEByhMSjbyTI2aTb6+oEMp5gg8eKUplm1UxAgHCo3NpZ8RAq0BRDxz6BpKZQqE9zohqhfvrt3SxqaTagm7q5WIxmJVdU2hQnAAd4Y/3GEFEQVBwKYQxShcXqaK085dB6TUcAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKOH8umNTmpkzz6kXsfejNRHQ6alA8FbwCcBaRon0ol0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/claygarth
+
+==================================================================
