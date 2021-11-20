@@ -89,6 +89,40 @@ footer{
 
 
 
+
+
+
+
+/* unvisited link */
+a:link {
+  color: var(--color);
+}
+
+/* visited link */
+a:visited {
+  color: var(--color);
+}
+
+/* mouse over link */
+a:hover {
+  color: darkgrey;
+}
+
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+
+
+
+
+
+
 @media (prefers-color-scheme: dark) {
 
     :root {        
