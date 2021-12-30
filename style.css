@@ -106,8 +106,24 @@ a:visited {
 /* mouse over link */
 a:hover {
   color: darkgrey;
+  position: relative;
 }
 
+
+.litecoin:hover:after {
+    content: url(https://gaming.claytonia.net/assets/images/litecoinQR.png); /* no need for qoutes */
+    display: block;
+    position: absolute;
+    left: 123px; /* change this value to one that suits you */
+    top: 56px; /* change this value to one that suits you */
+}
+.bitcoin:hover:after {
+    content: url(https://gaming.claytonia.net/assets/images/bitcoinQR.png); /* no need for qoutes */
+    display: block;
+    position: absolute;
+    left: 123px; /* change this value to one that suits you */
+    top: 56px; /* change this value to one that suits you */
+}
 
 a:link {
   text-decoration: none;
